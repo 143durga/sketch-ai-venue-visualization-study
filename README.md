@@ -612,6 +612,3 @@ The visualizations and investment estimates are intended for conceptual planning
 
 ---
 
-## License
-
-Add an appropriate open-source license before distributing the source code publicly.
