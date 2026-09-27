@@ -1,0 +1,6 @@
+{
+  "name": "SKETCH — Haute Event & Spatial Concept Atelier",
+  "description": "An ultra-premium event design atelier that transforms client venues into bespoke celebration concepts through architectural Venue Lock™ precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
